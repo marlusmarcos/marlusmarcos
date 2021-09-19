@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-<a href="https://github.com/Daggy1234">
+<a href="https://github.com/marlusmarcos">
   <img src="https://github-readme-stats.vercel.app/api?username=Daggy1234&show_icons=true&hide_border=true" />
 </a>
 
 ---
 
-<a href="https://github.com/Daggy1234">
+<a href="https://github.com/marlusmarcos">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daggy1234&layout=compact" />
 </a>
 
