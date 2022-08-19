@@ -7,7 +7,7 @@
 ---
 
 <a href="https://github.com/marlusmarcos">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlusmarcos&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlusmarcos&layout=compact" /> 
 </a>
 
 <!--
