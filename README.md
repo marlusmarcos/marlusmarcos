@@ -1,4 +1,4 @@
-### fala galera! um pouco sobre o que mais uso! 👋
+### fala, galera! um pouco sobre o que mais uso! 👋
 
 <a href="https://github.com/marlusmarcos"> 
   <img src="https://github-readme-stats.vercel.app/api?username=marlusmarcos&show_icons=true&hide_border=true" />
